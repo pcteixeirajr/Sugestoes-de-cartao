@@ -13,7 +13,6 @@ Também deixei uma rota web simples no backend para facilitar a avaliação em m
 
 ```text
 .
-├── assets/
 ├── backend/
 └── flutter_app/
 ```
